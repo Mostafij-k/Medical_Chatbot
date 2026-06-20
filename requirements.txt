@@ -1,0 +1,12 @@
+langchain==0.3.26
+langchain-community==0.3.27
+langchain-core==0.3.75
+langchain-text-splitters==0.3.11
+langchain-huggingface
+langchain-groq
+faiss-cpu
+sentence-transformers
+pypdf
+streamlit==1.45.1
+flask
+python-dotenv
